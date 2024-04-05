@@ -17,9 +17,9 @@ defaults
     timeout client 50000
     timeout server 50000
 
-frontend www.rorido.tech
+frontend www.ibaajike.tech
     bind *:80
-    bind *:443 ssl crt /etc/ssl/www.rorido.tech/www.rorido.tech.pem
+    bind *:443 ssl crt /etc/ssl/www.ibaajike.tech/www.ibaajike.tech.pem
     redirect scheme https code 301 if !{ ssl_fc }
     default_backend servers
 
