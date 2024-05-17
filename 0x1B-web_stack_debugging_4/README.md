@@ -1,5 +1,7 @@
 # System Configuration Management with Puppet
 
+![frdkCrb](https://github.com/Baajike/alx-system_engineering-devops/assets/115042371/37e36129-c8be-4bc4-804d-a585d8ab9010)
+
 ## Overview
 This repository contains Puppet configuration files (`*.pp`) for managing system configurations in various scenarios. Puppet is a powerful configuration management tool that allows you to define and automate the setup and maintenance of infrastructure as code.
 
